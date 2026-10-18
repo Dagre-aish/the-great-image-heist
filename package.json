@@ -1,0 +1,13 @@
+{
+  "name": "the-great-image-heist",
+  "version": "1.0.0",
+  "description": "The Great Image Heist — A humorous profile picture cropper game",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx vercel --prod"
+  },
+  "keywords": ["image-cropper", "game", "canvas", "interactive"],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Production & Vercel
+.vercel
+dist/
+build/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
